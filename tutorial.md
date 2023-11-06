@@ -17,4 +17,8 @@ sudo apt-get update -y
 sudo apt-get install jenkins -y
 ```
 
+###
+```
+sudo systemctl status jenkins
+```
 
