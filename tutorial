@@ -1,0 +1,11 @@
+# Jenkins Installation
+
+## Java Installation
+```
+sudo apt update -y
+sudo apt install fontconfig openjdk-17-jre -y
+java -version
+```
+
+
+
